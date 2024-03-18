@@ -26,8 +26,8 @@ To set up the project locally, follow these steps:
 1. Clone the repository and navigate to root directory:
 
 ```bash
-git clone git@github.com:dhimahi-employment-challenge/tim-koprivnik.git
-cd tim-koprivnik
+git clone git@github.com:tim-koprivnik/calculation-game.git
+cd calculation-game
 ```
 
 2. Ensure Docker is running on your machine.
@@ -59,8 +59,8 @@ docker-compose down
 1. Clone the repository and navigate to root directory:
 
 ```bash
-git clone git@github.com:dhimahi-employment-challenge/tim-koprivnik.git
-cd tim-koprivnik
+git clone git@github.com:tim-koprivnik/calculation-game.git
+cd calculation-game
 ```
 
 2. Go to calculation-game directory:
